@@ -27,7 +27,7 @@ st.image("tci.jpg", use_column_width=True)
 st.markdown("""
 **Order Delay and Unresponsiveness:**
 
-* **Dealer Unresponsive:** Mr. Rajesh Bhatia, our designated dealer, is unresponsive and has ceased taking our calls despite multiple attempts to reach him.
+* **Dealer Response:** Mr. Rajesh Bhatia, our designated dealer, is also facing problems while he reached their office.
 
 * **Shipment Issue:** TCI Express, the logistics provider, informed us that the initial booking was processed for a lesser amount, causing delivery issues.
 
@@ -35,7 +35,7 @@ st.markdown("""
 
 * **Financial Penalty:** The delay has resulted in a penalty of 10,000 rupees.
 
-* **Lack of Resolution:** Neither the dealer nor TCI Express is responding to our concerns, leaving us without a resolution.
+* **Lack of Resolution:**  TCI Express is not responding to our concerns, leaving us without a resolution. I have talked to multiple managers, but they have not been able to resolve the issue.
 
 We urgently request assistance in resolving this matter and ensuring the prompt delivery of our order.
 """)
