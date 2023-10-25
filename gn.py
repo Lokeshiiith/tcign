@@ -33,11 +33,13 @@ st.markdown("""
 
 * **Delayed Delivery:** The order was scheduled for delivery on October 17th, but as of October 25th, it has not reached its destination.
 
+* **Blame Game:** TCI Express, manager at Haldwani location accusing TCI Jaipur and Tci Jaipur accussing Haldwani TCI, such a pathetic service.
+            
 * **Financial Penalty:** The delay has resulted in a penalty of 10,000 rupees.
 
 * **Lack of Resolution:**  TCI Express is not responding to our concerns, leaving us without a resolution. I have talked to multiple managers, but they have not been able to resolve the issue.
 
-We urgently request assistance in resolving this matter and ensuring the prompt delivery of our order.
+* **Request for Assistance:** We urgently request assistance in resolving this matter and ensuring the prompt delivery of our order.
 """)
 st.markdown("[TCI Express Tracking](https://www.tciexpress.in/trackingdocket.aspx?trackshipment=455914675&dwb=dwb)")
 
