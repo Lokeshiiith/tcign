@@ -2,7 +2,7 @@ import streamlit as st
 import datetime
 # Title and description
 # st.title("How manufacturing companies like GN Enterprises dont pay attention to their customers")
-st.title("How shipment companies like tci express cheat their customers")
+st.title("How shipment companies like tci express cheat their customers and not deliver on time")
 
 # add image of orders
 st.image("gn.jpg", use_column_width=True)
